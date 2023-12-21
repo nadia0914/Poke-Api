@@ -1,6 +1,6 @@
 // service-worker.js
 
-const CACHE_NAME = 'my-pwa-cache';
+const CACHE_NAME = 'cache-pokeapi';
 const urlsToCache = [
   '/',
   '/index.html',
