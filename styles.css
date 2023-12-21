@@ -1,0 +1,22 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+#results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .pokemon-container {
+    flex-basis: 18%; 
+    text-align: center;
+    margin: 10px;
+  }
