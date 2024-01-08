@@ -1,7 +1,7 @@
 //obtenemos la url del servidor
 var url=window.location.href;
 //definimos que nuestro sw.js se encuentra en el repositorio
-var ubicacionSw='Poke-Api/service-worker.js';
+var ubicacionSw='/service-worker.js';
 
 if ( navigator.serviceWorker ) {
 
