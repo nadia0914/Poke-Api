@@ -5,8 +5,7 @@ const CACHE_INMUTABLE ='inmutable-1';
 //declaración de constante para poner todos los archivos requeridos por el APP SHELL
 const APP_SHELL = [
     '/',
-    'index.html',
-    'offline.html'
+    'index.html'
 ];
 
 
