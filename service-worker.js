@@ -4,7 +4,6 @@ const CACHE_NAME = 'cache-pokeapi';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/styles.css',
   '/app.js'
   // Agrega aquí todos los archivos de tu aplicación que deseas cachear
 ];
